@@ -1,4 +1,4 @@
-# Proyecto HTML Estático con Nginx
+# Proyecto Landing Page con HTML, CSS y Nginx
 
 ## Descripción del proyecto
 
